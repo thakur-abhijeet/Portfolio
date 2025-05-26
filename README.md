@@ -1,9 +1,7 @@
-
 # Abhijeet Thakur - Portfolio Website
 
 A modern, responsive portfolio website showcasing Abhijeet Thakur's skills, projects, and contact information.
 
-![Portfolio Preview](images/portfolio-preview.jpg)
 
 ## Features
 
